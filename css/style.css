@@ -1,0 +1,43 @@
+button{
+  background-color: rgb(55, 89, 184) ;
+  color: white;
+  border-radius: 5px;
+  padding: 8px;
+}
+span{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+div span{
+    width: 50px;
+    background-color: rgb(55, 89, 184);
+    border-radius: 5px;
+    color: white;
+}
+span{
+    font-size: 30px;
+    border: 1px solid black;
+    margin-top: 5px;
+}
+p{
+    font-size: 14px;
+    color: #707070;
+    font-weight: 400;
+}
+.container{
+    background-color: skyblue;
+    width: 280px;
+   padding: 80px;
+   border: 2px solid;
+}
+input{
+    background-color: rgb(55, 89, 184);
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid black;
+    color: white;
+}
+span,p{
+    margin-left: 80px;
+}
